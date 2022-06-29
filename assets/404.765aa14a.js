@@ -1,0 +1,1 @@
+import{t}from"./index.77212894.js";const o=t('<section class="p-8"><h1 class="text-2xl font-bold">404: \u063A\u064A\u0631 \u0645\u0648\u062C\u0648\u062F\u0629</h1><p class="mt-4">\u0643\u064F\u0644\u0647 \u0630\u0647\u0628\u060C \u0641\u064A \u0645\u0647\u0628 \u0627\u0644\u0631\u064A\u0627\u062D \u{1F61E}</p></section>');function s(){return o.cloneNode(!0)}export{s as default};
