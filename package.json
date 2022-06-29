@@ -1,0 +1,24 @@
+{
+  "name": "solidjs-playaround",
+  "version": "0.0.1",
+  "description": "Just try solid-js",
+  "author": "x7md",
+  "scripts": {
+    "dev": "vite --host",
+    "start": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview --host"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "vite-plugin-solid": "^2.2.6",
+    "vite-plugin-windicss": "^1.8.5"
+  },
+  "dependencies": {
+    "@nanostores/solid": "^0.1.6",
+    "nanostores": "^0.5.12",
+    "solid-app-router": "^0.3.3",
+    "solid-js": "^1.4.2"
+  }
+}
