@@ -8,7 +8,7 @@ import App from './app';
 
 render(
   () => (
-    <Router source={hashIntegration()} base="solidJS-dark-theme">
+    <Router source={hashIntegration()}>
       <App />
     </Router>
   ),
