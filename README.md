@@ -3,7 +3,7 @@ Nothnig, just playaround with SolidJS.
 
 use:
 - Solid Router (Hash Mode).
-- Some CSS [focus CSS](https://hihayk.github.io/focus/).
+- Some CSS [focus CSS](https://hihayk.github.io/focus/) + WindiCSS.
 
 ## Available Scripts
 
