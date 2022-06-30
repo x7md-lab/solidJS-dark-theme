@@ -2,6 +2,7 @@ import { lazy } from 'solid-js';
 
 import Home from './pages/home';
 import AboutData from './pages/about.data';
+import AboutPage from './pages/about';
 
 export const routes = [
   {
@@ -10,7 +11,7 @@ export const routes = [
   },
   {
     path: '/about',
-    component: lazy(() => import('./pages/about')),
+    component: AboutPage,
     data: AboutData,
   },
   {
